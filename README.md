@@ -8,6 +8,7 @@
 
 # Documentation
 
+- [Use Case Diagram](./Docs/SimulatorUseCaseDiagram.drawio.pdf)
 
 ### Database Model
 
