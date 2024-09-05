@@ -9,10 +9,10 @@
 # Documentation
 
 - [Use Case Diagram](./Docs/SimulatorUseCaseDiagram.drawio.pdf)
-- [DataBaseModel](./Docs/DataBaseModel)
 
 ### Database Model
 
+- [DataBaseModel](./Docs/DataBaseModel)
 
 ### Flow
 
